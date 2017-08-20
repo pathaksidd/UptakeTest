@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="38015" started-at="2017-08-20T07:03:51Z" finished-at="2017-08-20T07:04:29Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="38015" started-at="2017-08-20T07:03:51Z" finished-at="2017-08-20T07:04:29Z">
+      <class name="Uptake.com.uptake.test.UptakeTest">
+        <test-method status="PASS" signature="BeforeTest()[pri:0, instance:Uptake.com.uptake.test.UptakeTest@6767c1fc]" name="BeforeTest" is-config="true" duration-ms="3814" started-at="2017-08-20T02:03:51Z" finished-at="2017-08-20T02:03:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeTest -->
+        <test-method status="PASS" signature="testNavigation()[pri:0, instance:Uptake.com.uptake.test.UptakeTest@6767c1fc]" name="testNavigation" duration-ms="33240" started-at="2017-08-20T02:03:55Z" finished-at="2017-08-20T02:04:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testNavigation -->
+        <test-method status="PASS" signature="AfterTest()[pri:0, instance:Uptake.com.uptake.test.UptakeTest@6767c1fc]" name="AfterTest" is-config="true" duration-ms="934" started-at="2017-08-20T02:04:28Z" finished-at="2017-08-20T02:04:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterTest -->
+      </class> <!-- Uptake.com.uptake.test.UptakeTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
